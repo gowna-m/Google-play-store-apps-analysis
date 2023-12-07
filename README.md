@@ -8,3 +8,10 @@ Google Play Store App data of 2.3 Million + applications.
 - Most of the installations are done by the teens and the most are Video Players and - - Editors. Video Players and Editors has a higher demand.
 - Size of the Application varies the installations.
 - Most People download the free apps, the installation of the free apps is high and the availabilty of the free apps also is very high.
+
+
+| #Model | Accuracy |
+| :---: | :---: |
+| Decision Tree | 0.843 |
+| RandomForestClassifier | 0.843 |
+| GradientBoostingClassifier | 0.842 |
